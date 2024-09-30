@@ -6,10 +6,10 @@ Full Stack Developer
 
 Software/Web Dev | Cybersecurity Enthusiast | Cloud Computing | Passionate about building secure, scalable applications.
 
-* 🌍  I'm based in New York City
+* 🌍  Originally from NYC | Now based in Seattle, WA
 * 🖥️  See my portfolio at [My Portfolio](http://mkabba.com)
 * ✉️  You can contact me at [mkabba34@gmail.com](mailto:mkabba34@gmail.com)
-* 🧠  I'm learning Vue
+* 🧠  Currently studying Kali Linux and SIEM tools
 * 🤝  I'm open to collaborating on projects
 * ⚡  I am enamored of cloud computing
 
