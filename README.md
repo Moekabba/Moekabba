@@ -4,7 +4,7 @@ Hi 👋 My name is Mahamadou Kabba
 Full Stack Developer
 --------------------
 
-I am .NET full stack developer with an interest in cloud engineering (AWS)
+Software/Web Dev | Cybersecurity Enthusiast | Cloud Computing | Passionate about building secure, scalable applications.
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [My Portfolio](http://mkabba.com)
