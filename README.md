@@ -9,7 +9,7 @@ Originally from NYC 🗽
 Now based in Seattle, WA ☁️  
 
 🌐 Portfolio: http://mkabba.com  
-📩 Email: moekabba1@gmail.com  
+📩 Email: moekabb34@gmail.com  
 🤝 Open to collaboration and long-term AI projects  
 
 ---
