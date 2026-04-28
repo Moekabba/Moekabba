@@ -1,6 +1,6 @@
 # Hi 👋 I’m Mahamadou Kabba  
 
-## Senior Full Stack / AI Engineer  
+## Full Stack / AI Engineer  
 
 I design and build production-grade AI systems and scalable web applications.  
 My focus is on **LLM-powered platforms, RAG pipelines, backend architecture, and cloud deployment**.
